@@ -1,0 +1,3 @@
+This program is desigened for finding the whole solutions of the game: 24point for given any valid 4 numbers.
+By using the combinations of the operator applied on the numbers and a systematically permutation of the numbers, this code can generate the whole solutions of Point24 for a grouo of certain given number.
+Besides, by adding some codes building a gui, a 24point game can be relized easily under the algorithms proposed here.
