@@ -1,0 +1,11 @@
+First Java Project: Build a Vocabulary Manager
+By running this program, the following functions can be realized.
+1. Read a list of words (and meanings) from a text file.
+2. Display, on screen, a list of all words starting with a particular letter or letters. Also have a way of displaying all words.
+3. Display a word, with meaning, at random.
+4. Display the meaning of a random word.
+5. The word texted by users in the screen will be checked whether the spelling is correct or not.
+6. If the word texted by users are wrong, the program is supposed to provide the most likely words that users want to check.
+7. Add a word to the list in the text file.
+8. Remove a word from the list in the text file.
+9. Save all words (and meanings) to a text file.
