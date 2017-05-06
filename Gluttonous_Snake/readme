@@ -1,0 +1,2 @@
+This program is designed for realizing a classical game: Gluttonous Snake.
+The interfaces: JFrame, JPlane, Runnable and KeyListener are used in this program to build the 2D Gluttonous Snake Game.
